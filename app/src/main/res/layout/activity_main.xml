@@ -175,7 +175,7 @@
             android:id="@+id/btn_equal"
             android:layout_width="0dp"
             android:layout_rowSpan="2"
-            android:layout_rowWeight="2"
+            android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:background="#F43A2E"
             android:text="="
@@ -185,7 +185,7 @@
         <Button
             android:id="@+id/btn_0"
             android:layout_width="0dp"
-            android:layout_rowWeight="2"
+            android:layout_rowWeight="1"
             android:layout_columnSpan="2"
             android:layout_columnWeight="1"
             android:background="@drawable/frame"
